@@ -1,4 +1,4 @@
-#this is a program that creates a basic linear regression 
+#this is a program that creates a basic linear regression using the sum of squared differences algorithm and gradient descent 
 
 
 from numpy import *
