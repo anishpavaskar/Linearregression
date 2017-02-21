@@ -1,5 +1,5 @@
 # Linearregression
-A linear regression made using gradient descent 
+A linear regression made using the sum of squared differences algorithm and gradient descent 
 
 
 # Dependencies 
